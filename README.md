@@ -3,6 +3,7 @@ Bonjour !
 Vous vous apprêtez à tester notre jeu de taquin. Veuillez préalablement lire les informations suivantes :
 
 Prérequis :
+
 	Pour compiler le programme, vous aurez besoin d'avoir installé les librairies suivantes :
 		- SDL 1.2. commande asociée* : `libsdl1.2-dev`
 		- SDL TTF. commande associée* : `sudo apt-get install libsdl-ttf2.0-dev`
@@ -16,9 +17,11 @@ Prérequis :
 		- sound-effects
 
 Compilation :
+
 	- Ouvrez un terminal dans le dossier et tapez la commande make
 
 Lancement du jeu :
+
 	- Pour lancer le jeu en mode graphique : tapez la commande ./taquin
 	- Pour lancer le jeu en mode console : tapez la commande ./taquin X   où X est la dimension de la grille voulu.
 
