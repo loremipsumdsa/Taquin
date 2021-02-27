@@ -2,14 +2,11 @@ Bonjour !
 
 Vous vous apprêtez à tester notre jeu de taquin. Veuillez préalablement lire les informations suivantes :
 
-Prérequis : 
-
+Prérequis :
 	Pour compiler le programme, vous aurez besoin d'avoir installé les librairies suivantes :
-		
-		- SDL 1.2. commande asociée* : libsdl1.2-dev
-		- SDL TTF. commande associée* : sudo apt-get install libsdl-ttf2.0-dev
-		- SDL Mixer. commande associée* : sudo apt-get install libsdl2-mixer-dev
-	
+		- SDL 1.2. commande asociée* : `libsdl1.2-dev`
+		- SDL TTF. commande associée* : `sudo apt-get install libsdl-ttf2.0-dev`
+		- SDL Mixer. commande associée* : `sudo apt-get install libsdl2-mixer-dev`
 	En plus des codes sources ( algo.c, algo.h, graphique.c, graphique.h, main.c) et du makefile, vous aurez besoins des dossiers contenants les dépendances multimédias du jeu : 
 		- button
 		- font
